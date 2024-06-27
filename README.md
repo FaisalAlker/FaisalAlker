@@ -14,13 +14,13 @@
 
 ##
  
-<h3>I dunno wai, but here it is the CCTV of Banda Aceh City hehe</h3>
+<h3>CCTV Open Source untuk kita pantau bersama hehe</h3>
 
 ##
 
 <p>ctrl+click for open it in new tab hehe</p>
 <a href="http://123.108.97.96:8183/" target="_blank" rel="noreferrer noopener">
-    <img src="http://123.108.97.96:8183/teaser" alt="Click to visit Example Website">
+    <img src="./teaser.png" width="500">
 </a>
 
 
