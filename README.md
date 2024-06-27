@@ -14,7 +14,14 @@
 
 ##
  
-<h3>Here is the CCTV</h3>
+<h3>I dunno wai, but here it is the CCTV of Banda Aceh City hehe</h3>
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://cctv-stream.bandaacehkota.info/f9444904-ad31-4401-9643-aee6e33b85c7.html)
+##
+
+<p>ctrl+click for open it in new tab hehe</p>
+<a href="http://123.108.97.96:8183/" target="_blank" rel="noreferrer noopener">
+    <img src="http://123.108.97.96:8183/teaser" alt="Click to visit Example Website">
+</a>
+
+
 
