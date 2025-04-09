@@ -14,14 +14,9 @@
 
 ##
  
-<h3>CCTV Open Source untuk kita pantau bersama hehe</h3>
+<h3>Just do Common Thing</h3>
 
 ##
-
-<p>ctrl+click for open it in new tab hehe</p>
-<a href="http://123.108.97.96:8183/" target="_blank" rel="noreferrer noopener">
-    <img src="./teaser.png">
-</a>
 
 
 
